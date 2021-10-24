@@ -1,4 +1,4 @@
-        ## MoveZeroes (int[] nums)   
+        int[] MoveZeroes (int[] nums)   
         {
             int count = 0;
             int i = 0;
